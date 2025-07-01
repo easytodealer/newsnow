@@ -313,3 +313,12 @@
     "interval": 600000
   }
 }
+{
+  "v2ex": {
+    "redirect": "36kr",
+    "name": "36kr",
+    "column": "tech",
+    "home": "https://www.36kr.com",
+    "color": "slate",
+    "interval": 600000,
+    "title": "最新分享"
