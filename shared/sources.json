@@ -312,11 +312,3 @@
     "color": "blue",
     "interval": 600000
   }
-  "36kr": {
-    "redirect": "36kr",
-    "name": "36kr",
-    "column": "tech",
-    "home": "https://www.36kr.com",
-    "color": "slate",
-    "interval": 600000,
-}
